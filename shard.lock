@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  poncho:
+    git: https://github.com/icyleaf/poncho.git
+    version: 0.4.0+git.commit.f9e29066cfc1a7521de45fb5f7d97659dd4357ff
+
